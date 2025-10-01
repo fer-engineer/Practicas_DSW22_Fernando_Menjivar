@@ -16,7 +16,7 @@ fun main(){
 
     }
     
-
+    println("La lista tiene ${list.size} elementos.")
     println("Números pares: $list")
 
 }
